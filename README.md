@@ -1,5 +1,5 @@
 # Integrantes
-Jared Valenzuela      
+Jared Valenzuela
 Joseph Yepez
 Alejandro Moreira
 Heyer Tinoco
